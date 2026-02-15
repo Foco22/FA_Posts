@@ -1,6 +1,6 @@
-# FocoAnalytics Blog Posts
+# Francisco Macaya Blog Posts
 
-This repository contains all the information and resources for blog posts published on [FocoAnalytics.com](https://focoanalytics.com).
+This repository contains all the information and resources for blog posts published on [FranciscoMacaya.com](https://www.franciscomacaya.com).
 
 ## Repository Structure
 
@@ -27,6 +27,6 @@ If you'd like to suggest corrections, improvements, or have questions about any 
 
 Unless otherwise specified, the content in this repository is provided under [appropriate license - e.g., MIT, Creative Commons, etc.].
 
-## About FocoAnalytics
+## About FranciscoMacaya
 
-FocoAnalytics is dedicated to sharing insights, tutorials, and analyses in the fields of data science, analytics, and visualization. Visit [FocoAnalytics.com](https://focoanalytics.com) for more information.
+I am Francisco Macaya, and this is my personal site, which is dedicated to sharing insights, tutorials, and analyses in the fields of data science, analytics, and visualization. Visit [franciscomacaya.com](https://www.franciscomacaya.com) for more information.
